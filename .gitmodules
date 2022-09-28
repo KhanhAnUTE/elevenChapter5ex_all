@@ -1,0 +1,6 @@
+[submodule "bai-1"]
+	path = bai-1
+	url = https://github.com/VanishKhanhAn/elevenChapter5ex.git
+[submodule "bai-2"]
+	path = bai-2
+	url = https://github.com/g-ddy/elevenChapter5ex_2.git
